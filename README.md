@@ -19,4 +19,4 @@ Extra problem scan wifi: <br>
 - systemctl restart polkit.service <br>
 - pkaction --verbose --action-id org.freedesktop.NetworkManager.wifi.scan <br>
   (implicit any: yes) <br>
-![USBIP](https://github.com/fernandomxm/Migrate-EC2-AWS-to-OCI/blob/main/image01.png)
+![USBIP](https://github.com/fernandomxm/USB-over-ethernet/blob/main/USB-IP.png)
