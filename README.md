@@ -18,5 +18,5 @@ Extra problem scan wifi: <br>
 - Alterar linha (<allow_any> yes</allow_any> abaixo do id=org.freedesktop.NetworkManager.wifi.scan <br>
 - systemctl restart polkit.service <br>
 - pkaction --verbose --action-id org.freedesktop.NetworkManager.wifi.scan <br>
-  (implicit any: yes) <br>
+  (implicit any: yes) <br> <br>
 ![USBIP](https://github.com/fernandomxm/USB-over-ethernet/blob/main/USB-IP.png)
